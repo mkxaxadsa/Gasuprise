@@ -64,7 +64,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 MaterialPageRoute<void>(
                     builder: (BuildContext context) => const ViewProfile(
                           url:
-                              'https://docs.google.com/document/d/1DCu5M5Rvh4fesBpul6JNt8E6KrjEpq6043YItIAaHlk/edit?usp=sharing',
+                              'https://docs.google.com/document/d/1O59BdxKnxvjoFg83jYy1fECOSboNiJ08nKtiwpOeVKE/edit?usp=sharing',
                         )),
               );
             }),
@@ -76,7 +76,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 MaterialPageRoute<void>(
                     builder: (BuildContext context) => const ViewProfile(
                           url:
-                              'https://docs.google.com/document/d/1U1f4JsrBuPrg8kgc1LoIBmgPsjSuGQt5q0HY_Q8xTYM/edit?usp=sharing',
+                              'https://docs.google.com/document/d/1-k4t3eZLR9IRSJyiyT0_fu8I2Ic-OEBqNVBjeNDDnGA/edit?usp=sharing',
                         )),
               );
             }),
@@ -86,7 +86,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
               Navigator.of(context).push(
                 MaterialPageRoute<void>(
                     builder: (BuildContext context) => const ViewProfile(
-                          url: 'https://forms.gle/QiUEP7wa7dvpFRrx5',
+                          url: 'https://forms.gle/PbB2Jef2VnSn12HJA',
                         )),
               );
             })
